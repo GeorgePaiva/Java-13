@@ -14,8 +14,6 @@ public class ConversaoNumeroString {
 		System.out.println(Integer.toString(num2).length());
 		
 		
-		Long.toString(i)
-		
 		System.out.println(("" + num2).length());
 		System.out.println(("" + num1).length());
 		
